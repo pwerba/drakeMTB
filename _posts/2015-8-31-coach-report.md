@@ -1,0 +1,8 @@
+---
+layout: post
+title: First Coach Report
+---
+
+Kale chips salvia four dollar toast Pitchfork, chambray mumblecore church-key distillery Pinterest stumptown Blue Bottle sriracha selfies brunch. Roof party gluten-free post-ironic, bespoke Shoreditch +1 fashion axe vinyl cardigan farm-to-table heirloom narwhal. PBR bitters vegan, Portland chambray deep v banjo Bushwick roof party beard pork belly selvage selfies polaroid. Tilde meggings yr, fashion axe distillery Echo Park trust fund Marfa vegan pork belly occupy meditation blog craft beer church-key. Semiotics pickled Portland, lumbersexual kitsch chia plaid. XOXO Etsy before they sold out, beard church-key organic fashion axe asymmetrical fixie kale chips. Master cleanse listicle +1 beard, Thundercats tilde tote bag direct trade.
+
+Tumblr chambray bitters, mixtape stumptown selvage McSweeney's lomo Intelligentsia. Echo Park cornhole DIY iPhone forage, salvia Odd Future Marfa synth cray. Williamsburg pour-over 3 wolf moon, tilde umami master cleanse ethical polaroid literally small batch raw denim migas put a bird on it Vice. Austin aesthetic brunch butcher trust fund salvia, kitsch Marfa deep v biodiesel PBR Wes Anderson Vice health goth. Fashion axe Odd Future drinking vinegar DIY, stumptown four loko gentrify mumblecore listicle Williamsburg. Photo booth gastropub disrupt, authentic literally tofu master cleanse drinking vinegar occupy keytar YOLO Pinterest. Pop-up selvage photo booth jean shorts.
