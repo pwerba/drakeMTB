@@ -5,6 +5,7 @@ permalink: /staff/
 ---
 
 ##Sarah Starbird - Co-Head Coach
+![sarah](https://github.com/pwerba/drakeMTB/blob/gh-pages/images/Sarah-Starbird.jpg)
 
 A transplant to the Bay Area after graduation from Boston University, Sarah has been riding and creating great memories on the trails since discovering Marin in 1989.
 
@@ -17,6 +18,7 @@ Now living on Woodacre with her 3 dogs and partner Chris, you can usually find S
 As of the 2013 season, Sarah becomes Co-Director of the team along with Jeff Broussard, taking the reins from Dan Freeman who helped found the team a decade prior.
 
 ##Otis Guy - Co-Head Coach
+![otis](https://github.com/pwerba/drakeMTB/blob/gh-pages/images/Otis-Guy.jpg)
 
 2013 marks Mountain Bike Hall Of Famer Otis Guy’s second season coaching for the Drake MTB Team.
 
@@ -29,7 +31,7 @@ Otis is also a Paramedic and worked for the Ross Valley Fire Service from 1975 t
 His daughter Alexis graduated from Drake in 2001, and his oldest son Sterling is a Sophomore at Drake and on the Drake MTB team.  His youngest son Marcus is in 7th grade attending White Hill and is excited about joining the Drake team when he enters high school.
 
 ##Jeff Broussard – Asst. Coach
-
+![jeff](https://github.com/pwerba/drakeMTB/blob/gh-pages/images/Jeff-Broussard.jpg)
 Jeff started with the Drake Mountain Bike Team for the 2011 season, coaching for two years before becoming a Co-Director/Asst. Coach for the 2013 season and Asst. Coach for 2014.
 
 He works at Drake High School and is fortunate to be able to work and hang out with many of the riders on the team.  Jeff is passionate about working with youth and being part of the Drake MTB Team is an extension of that passion.
@@ -43,7 +45,9 @@ Jeff loves to share his passion for mountain bikes with the next generation of r
 As of the 2013 season, Jeff becomes Co-Director of the team along with Sarah Starbird, taking the reins from Dan Freeman who helped found the team a decade prior.
 
 ##Kevin Hall – Asst. Coach
+![kevin](https://github.com/pwerba/drakeMTB/blob/gh-pages/images/Kevin-Hall.jpg)
 ## Eric Brandt – Mechanic
+![eric](https://github.com/pwerba/drakeMTB/blob/gh-pages/images/Eric-Brandt.jpg)
 Eric Brandt began working with the Drake MTB team in 2005 when his son joined the team as a freshman. Over the years Eric continued to ride with the team, as a parent ride leader and coach.
 
 He has been a mechanic at the races using the skills he gained over 20 years of working as a road race mechanic for Shimano, SRAM and Mavic.
@@ -51,6 +55,7 @@ He has been a mechanic at the races using the skills he gained over 20 years of 
 Eric continues to enjoy the energy and enthusiasm of the high school bike racer and looks forward to oiling chains, adjusting derailleurs and getting dropped on climbs by teenagers each Sunday morning.
 
 ##Joe Breeze – Mechanic
+![joe](https://github.com/pwerba/drakeMTB/blob/gh-pages/images/Joe-Breeze.jpg)
 Joe helps keep the teams gears running smoothly. He also happens to be one of the pioneers of mountain biking.
 
 He was an early pioneer in the development of modern mountain bicycles, and is widely considered to be one of its inventors, along with other pioneers, including Tom Ritchey, Charlie Kelly, Charlie Cunningham, and Gary Fisher. He was inducted into the Mountain Bike Hall of Fame in 1988.
