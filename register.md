@@ -3,7 +3,6 @@ layout: page
 title: Join the Team
 permalink: /register/
 ---
-#Join the Team
 
 ##ONLINE REGISTRATION IS HEREBY OPEN!
 

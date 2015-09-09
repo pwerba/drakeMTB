@@ -3,11 +3,29 @@ layout: page
 title: Parents and Riders
 permalink: /riders/
 ---
+	
+* <a href="{{ site.baseurl }}/register">Link to Register with Drake</a>
+	
+* <a href="{{ site.baseurl }}/needs">Team Needs</a>
 
-	Link to Register with Drake			Team Needs	
-	Link to Register with Norcal			Field Trip Forms	
-	NorCal Link			Piggybackr details	
-	NICA Link			Join Drake MTB Google Group Link	
-	Parent Handbook			FAQs	
-	Parent Committee Mtgs			"Charter" from old website	
-				Kit Order Link	
+* <a href="http://www.norcalmtb.org"> Register with Norcal</a>			
+
+* Field Trip Forms	
+
+* Our Charter	
+	
+* NorCal Link			
+
+* Piggybackr details	
+
+* NICA Link			
+
+* Join Drake MTB Google Group Link	
+
+* Parent Handbook			
+
+* FAQs	
+
+* Parent Committee Mtgs			
+
+* Kit Order Link	
