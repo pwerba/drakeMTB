@@ -4,19 +4,21 @@ title: Links
 permalink: /links/
 ---
 
-Here are some useful links.
+![link image](../images/chain.png)
 
-[2015/16 Online Registraiton Forms]: http://www.drakemtb.org/join-the-team/
+###Here are some useful links.
 
-[Drake MTB Facebook]: http://www.facebook.com/drakemtb
+2015/16 Online Registraiton Forms <http://www.drakemtb.org/join-the-team/>
 
-[Drake MTB Google Group]: http://groups.google.com/group/drakemtb?hl=en
+Drake MTB Facebook: <http://www.facebook.com/drakemtb>
 
-[Drake HS Main Website]: http://www.tamdistrict.org/drake
+Drake MTB Google Group: <http://groups.google.com/group/drakemtb?hl=en>
 
-[NorCal High School MTB League]: http://www.norcalmtb.org/
+Drake HS Main Website: <http://www.tamdistrict.org/drake>
 
-[NICA]: http://www.nationalmtb.org/
+NorCal High School MTB League]: <http://www.norcalmtb.org/>
 
-[NICA Pitzone Login]: https://pitzone.nationalmtb.org/users/sign_in
+NICA: <http://www.nationalmtb.org/>
+
+NICA Pitzone Login: <https://pitzone.nationalmtb.org/users/sign_in>
 
