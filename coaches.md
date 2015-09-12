@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Coaches and Staff
-permalink: /staff/
+title: Coaches
+permalink: /coaches/
 ---
 
 ##Sarah Starbird - Co-Head Coach
