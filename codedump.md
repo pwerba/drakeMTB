@@ -1,0 +1,25 @@
+#The following is a codedump from jekyll's errors building the site
+###UPDATE: I FIXED THE PROBLEMS BY RUNNING gem install jekyll-sitemap
+Configuration file: /Users/leonid.krashanoff/drakeMTB/_config.yml
+/Users/leonid.krashanoff/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/site_ruby/2.0.0/rubygems/core_ext/kernel_require.rb:54:in `require': cannot load such file -- jekyll-sitemap (LoadError)
+	from /Users/leonid.krashanoff/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/site_ruby/2.0.0/rubygems/core_ext/kernel_require.rb:54:in `require'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/jekyll-2.5.3/lib/jekyll/plugin_manager.rb:29:in `block in require_gems'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/jekyll-2.5.3/lib/jekyll/plugin_manager.rb:26:in `each'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/jekyll-2.5.3/lib/jekyll/plugin_manager.rb:26:in `require_gems'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/jekyll-2.5.3/lib/jekyll/plugin_manager.rb:19:in `conscientious_require'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/jekyll-2.5.3/lib/jekyll/site.rb:79:in `setup'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/jekyll-2.5.3/lib/jekyll/site.rb:41:in `initialize'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/jekyll-2.5.3/lib/jekyll/commands/build.rb:29:in `new'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/jekyll-2.5.3/lib/jekyll/commands/build.rb:29:in `process'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/jekyll-2.5.3/lib/jekyll/commands/build.rb:18:in `block (2 levels) in init_with_program'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/mercenary-0.3.5/lib/mercenary/command.rb:220:in `call'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/mercenary-0.3.5/lib/mercenary/command.rb:220:in `block in execute'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/mercenary-0.3.5/lib/mercenary/command.rb:220:in `each'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/mercenary-0.3.5/lib/mercenary/command.rb:220:in `execute'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/mercenary-0.3.5/lib/mercenary/program.rb:42:in `go'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/mercenary-0.3.5/lib/mercenary.rb:19:in `program'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/gems/jekyll-2.5.3/bin/jekyll:20:in `<top (required)>'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/bin/jekyll:23:in `load'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/bin/jekyll:23:in `<main>'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'
+	from /Users/leonid.krashanoff/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'
