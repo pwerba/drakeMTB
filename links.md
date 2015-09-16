@@ -16,9 +16,8 @@ Drake MTB Google Group: <http://groups.google.com/group/drakemtb?hl=en>
 
 Drake HS Main Website: <http://www.tamdistrict.org/drake>
 
-NorCal High School MTB League]: <http://www.norcalmtb.org/>
+NorCal High School MTB League: <http://www.norcalmtb.org/>
 
 NICA: <http://www.nationalmtb.org/>
 
 NICA Pitzone Login: <https://pitzone.nationalmtb.org/users/sign_in>
-
