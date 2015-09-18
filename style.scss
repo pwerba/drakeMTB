@@ -284,6 +284,15 @@ footer {
   text-align: center;
 }
 
+//Leo is testing material design below this line...
+.demo-layout-transparent {
+  background: url('../images/2015team.jpg') center / cover;
+}
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  color: 87% black;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
