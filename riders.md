@@ -18,14 +18,14 @@ permalink: /riders/
 
 * Piggybackr details
 
-* NICA Link			
+* <a href="http://www.nationalmtb.org/">NICA Link</a>
 
 * Join Drake MTB Google Group Link
 
-* Parent Handbook			
+* <a href="{{ site.baseurl }}/resources/parent-rider-handbook.pdf">Parent Handbook</a>
 
 * <a href="{{ site.baseurl }}/faqs">FAQs</a>
 
-* Parent Committee Mtgs			
+* Parent Committee Mtgs
 
 * Kit Order Link
