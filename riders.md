@@ -12,7 +12,7 @@ permalink: /riders/
 
 * <a href="{{ site.baseurl }}/fieldtripforms">Field Trip Forms</a>
 
-* Our Charter
+* <a href="{{ site.baseurl }}/charter">Our Charter</a>
 
 * <a href="http://www.norcalmtb.org/">NorCal Link</a>
 
@@ -20,7 +20,7 @@ permalink: /riders/
 
 * <a href="http://www.nationalmtb.org/">NICA Link</a>
 
-* Join Drake MTB Google Group Link
+* <a href="https://groups.google.com/forum/#!forum/drakemtb">Join Drake MTB Google Group Link</a>
 
 * <a href="{{ site.baseurl }}/resources/parent-rider-handbook.pdf">Parent Handbook</a>
 
