@@ -20,14 +20,3 @@ permalink: /news/
   {% endfor %}
 </div>
 
-
-
-
-		(Blog Style)	
-		Coaches Race Reports	
-		Student Race Reports	
-		Link to Facebook (feed)	
-		Race Photos Gallery 	
-		IJ Reports	
-		Calendar (again)	
-		Race Results	
