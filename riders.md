@@ -16,6 +16,8 @@ permalink: /riders/
 
 * <a href="http://www.norcalmtb.org/">NorCal Link</a>
 
+* <a href="{{ site.baseurl }}/schedule">Race Schedule</a>
+
 * Piggybackr details
 
 * <a href="http://www.nationalmtb.org/">NICA Link</a>
