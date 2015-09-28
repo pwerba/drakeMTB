@@ -4,6 +4,13 @@ title: Parents and Riders
 permalink: /riders/
 ---
 
+This **page** is dedicated to **Parents** and **Riders** to help answer **questions** about everything you need to do and know to be on the **Drake MTB team**. If you can’t find the answer here, please reach out to your buddy family/teammate or one of the coaches.
+
+### Getting Started
+****
+
+* <a href="https://groups.google.com/forum/?hl=en&fromgroups#!forum/drakemtb">Join the DrakeMTB google group</a>
+
 * <a href="{{ site.baseurl }}/register">Link to Register with Drake</a>
 
 * <a href="{{ site.baseurl }}/needs">Team Needs</a>

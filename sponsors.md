@@ -8,10 +8,8 @@ permalink: /sponsors/
 
 #Primary Sponsors
 ***
-![Breezer Logo](../images/breezer.jpg)
-
-**Drake Team Deal:**
-
+[![Breezer Bikes](../images/breezer.jpg)](http://breezerbikes.com)<br>
+**Drake Team Deal:**<br>
 30% off Breezer Bikes<br>
 20% off other products<br>
 Only at 3 Ring Cylces<br>
@@ -19,7 +17,7 @@ Phone# (415)-259-5704
 
 ***
 
-![redhorse logo](../images/redhorse.jpg)
+[![Redhorse Builders](../images/redhorse.jpg)](http://www.redhorseconstructors.com)
 
 *Exceptional Special Services Builder of Premier Homes
 Throughout the Bay Area*
@@ -29,14 +27,13 @@ Phone# (415)-492-2020
 #Secondary Sponsors
 ***
 
-![first on scene logo](../images/First-On-Scene.jpg)
+[![first on scene logo](../images/First-On-Scene.jpg)](http://firstonscene.com)
 
 *FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.*
 
 ***
 
-<http://www.clearviewfinancial.com><br>
-![allegiant logo](../images/Allegiant-logo.jpg)
+[![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com>)
 
 Nationwide Commercial Equipment Financing<br>
 Direct Financing Division<br>
@@ -47,12 +44,10 @@ Phone# (888)-408-8805
 
 ![logo](../images/dovetail-logo.jpg)
 
-(TBD)
-
 ***
 
-<http://www.drmichelleg.com/><br>
-![gonzalez logo](../images/Gonzolez-logo.png)
+
+[![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com)
 
 
 Orthodontist to Biking Stars…Like alumni Ben Enbom<br>
@@ -63,12 +58,12 @@ Phone# (415)-456-3893
 #Associate Sponsors
 ***
 
-![got homes](../images/got-homes.jpg)
+[![got homes](../images/got-homes.jpg)](http://gothomes.com)
 
 ***
 
-<http://www.alancasciodds.com><br>
-![logo](../images/Alancascio-logo.png)
+
+[![logo](../images/Alancascio-logo.png)](http://www.alancasciodds.com)
 
 Alan Cascio<br>
 Family Dentistry<br>
@@ -87,49 +82,38 @@ Phone# (415) 256-1316<br>
 
 ***
 **Dolby Laboratories**
-(TBD)
 
 ***
 
-<http://www.nurturingmindsinafrica.org><br>
-![logo](../images/NurturingMinds-logo.png)
+[![logo](../images/NurturingMinds-logo.png)](http://www.nurturingmindsinafrica.org)
 
 *Nurturing Minds in Africa is a U.S.-based non-profit organization working to change our world through the education and empowerment of vulnerable girls in Tanzania.*
 
 ***
 
-<http://www.Smithcpas.com><br>
-![logo](../images/Smith-CPA.png)
+
+[![logo](../images/Smith-CPA.png)](http://www.Smithcpas.com)
 
 82 W Portal Ave, San Francisco, CA 94127<br>
 (415) 242-1565
 
 ***
+<!--[![alt text](image link)](web link)-->
 
-*Sunshine Bike – Offiical Team Shop*<br>
-<http://www.sunshinebicycle.com>
+[![alt text](../images/Sunshine-Bikes.jpg)](http://www.sunshinebicycle.com)
 
-![logo](../images/Sunshine-Bikes.jpg)
-
-***
-
-<http://www.pelofitness.com>
-
-![logo](../images/pelo-logo.jpg)
 
 ***
 
-<http://www.Marinpoweryoga.com><br>
-![logo](../images/marin-yoga.png)
-
-141 Tunstead Ave, San Anselmo, CA 94960<br>
-(415) 683-1191
+[![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com)
 
 ***
 
-<http://www.ironspringpub.com>
+[![logo](../images/marin-yoga.png)](http://www.Marinpoweryoga.com)
 
-![logo](../images/iron-springs.png)
+***
+
+[![logo](../images/iron-springs.png)](http://www.ironspringpub.com)
 
 ***
 **In Memory of Jim Miller**<br>
