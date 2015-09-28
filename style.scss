@@ -284,10 +284,7 @@ footer {
   text-align: center;
 }
 
-/* ==========================================================================
-/* 2.0 - Grid Layout (Responsive)
-   ========================================================================== */
-/* Sections & Content Blocks */
+
 .section {
   position: relative;
 }
@@ -358,15 +355,6 @@ footer {
 }
 .one-third {
   width: 32%;
-}
-
-//Leo is testing material design below this line...
-.demo-layout-transparent {
-  background: url('../images/2015team.jpg') center / cover;
-}
-.demo-layout-transparent .mdl-layout__header,
-.demo-layout-transparent .mdl-layout__drawer-button {
-  color: 87% black;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

@@ -125,6 +125,7 @@ Larry Smith<br>
 **Product Service**<br>
 *Sunshine Bike – Offiical Team Shop*<br>
 <http://www.sunshinebicycle.com>
+
 ![logo](../images/Sunshine-Bikes.jpg)
 
 ***
