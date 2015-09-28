@@ -6,6 +6,8 @@ permalink: /coaches/
 ![Sarah and Otis](../images/otis+sarah.jpg)
 <iframe src="https://docs.google.com/spreadsheets/d/199FFGxQ1bk2o0IvfIiAt8_eK7gsDK_Nwl2WCwTc4nXs/pubhtml?widget=true&amp;headers=false" style="border: 0" width="100%" height="500px" frameborder="0" scrolling="no"></iframe>
 
+***
+
 Below is a list of our esteemed coaches who volunteer many hours on and off the trails. They do it because they love it and here you can learn a little more about each of them and some of their other passions.
 
 ##Co-Head Coach and Director
