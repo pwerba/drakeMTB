@@ -23,7 +23,7 @@ This **page** is dedicated to **Parents** and **Riders** to help answer **questi
 
 * <a href="{{ site.baseurl }}/scholarship">Scholarship Form</a>
 
-* <a href="{{ site.baseurl }}/feildtrip">Field Trip Form</a>
+* <a href="{{ site.baseurl }}/fieldtrip">Field Trip Form</a>
 
 * <a href="{{ site.baseurl }}/eligibility">Eligibility Requirements</a>
 
