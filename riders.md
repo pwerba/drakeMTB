@@ -23,7 +23,7 @@ This **page** is dedicated to **Parents** and **Riders** to help answer **questi
 
 * <a href="{{ site.baseurl }}/dues">Team Donations and Dues</a>
 
-* <a href="{{ site.baseurl }}/scholarship">Scholarship Form</a>
+* <a href="{{ site.baseurl }}/resources/DrakeMTB_Scholarship_ Letter.pdf">Scholarship Form</a>
 
 * <a href="{{ site.baseurl }}/fieldtrip">Field Trip Form</a>
 

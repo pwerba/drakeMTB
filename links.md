@@ -9,11 +9,11 @@ permalink: /links/
 ###Get Started with Drake MTB
 
 <!--NOTE many of these links are found on the Riders Page-->
-* <a href="http://goo.gl/forms/6QBGiaPkpi">Student Registration Form </a>
+* <a href="http://goo.gl/forms/6QBGiaPkpi">Student Registration Form</a>
 
 * <a href="{{ site.baseurl }}/resources/Drake_MTB_Parent_Waiver.pdf">Drake Waiver and Agreement to Participate Form</a>
 
-* <a href="{{ site.baseurl }}/resources/Drake_MTB_Parent_Waiver.pdf">Feild Trip Form</a>
+* <a href="{{ site.baseurl }}/resources/Drake_MTB_Parent_Waiver.pdf">Field Trip Form</a>
 
 * <a href="http://groups.google.com/group/drakemtb?hl=en">Join our team EMAIL list, send a request to join</a>
 
@@ -27,9 +27,9 @@ permalink: /links/
 
 * <a href="{{ site.baseurl }}/resources/2016_Parent_Rider_Handbook.pdf">Race Packing List Download</a>
 
-* <a href="http://google.com">Race Food Sign up sheet **COMING SOON! Feb 2016**</a>
+* <a href="http://drakemtb.org">Race Food Sign up sheet **COMING SOON! Feb 2016**</a>
 
-* <a href="http://google.com">Race Volunteer Sign up Sheet **COMING SOON! Feb 2016**</a>
+* <a href="http://drakemtb.org">Race Volunteer Sign up Sheet **COMING SOON! Feb 2016**</a>
 
 * <a href="http://cbmv.smugmug.com/ForDrakeMTB/Drake-MTB-Granite-Bay-2015/n-3Jv6h7/">Team Photos **More COMING SOON!**</a>
 
@@ -41,7 +41,7 @@ permalink: /links/
 
 * <a href="https://pitzone.nationalmtb.org/users/sign_in">NorCal League Mountain Bike Race Registration Login</a>
 
-* <a href="http://www.nationalmtb.org/wp-content/uploads/NICA-Rulebook.pdf">The NICA Rule Book is located</a>
+* <a href="http://www.nationalmtb.org/wp-content/uploads/NICA-Rulebook.pdf">The NICA Rule Book</a>
 
 * <a href="http://www.nationalmtb.org/nica-coaches-resources/">Coaches Resources NICA</a>
 
