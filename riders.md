@@ -40,7 +40,8 @@ This **page** is dedicated to **Parents** and **Riders** to help answer **questi
 ****
 
 ###Lets have some fun
-* General Team Ride Schedule **COMING SOON**
+
+* <a href="{{ site.baseurl }}/teamrides">General Team Ride Schedule</a>
 
 * <a href="http://www.sunshinebicycle.com/">Team Bike Shop – Sunshine Bikes</a>
 

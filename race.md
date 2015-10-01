@@ -17,8 +17,7 @@ The **Race Pre-Ride** is not a mandatory ride but strongly encouraged to help th
 
 The **Team Dinners** are a great event for the entire family. All are welcome and encouraged to join the extended Drake MTB family for good cheer and camaraderie (and help calm some pre-race jitters.) Team dinner location is noted under the details for each race below.
 
-**Food and Volunteer Sign up Sheets (go to new webpage)**
-(Add link to Google Sign up sheets)
+**Food and Volunteer Sign up Sheets (COMING SOON)**
 Please do not change anything or overwrite any of the cells. Look down the list of the appropriate race and add your name to a blank cell corresponding to the item you will bring and the Volunteer position you plan to fill. Then, take note of what you just volunteered for and enter it into your favorite reminder device.
 
 Do please remember, breakfast items should be in the Pit Zone by 8:30am at the latest (give your item a ride with a friend if you know you just cannot get there that early) and do be sure to remember your shift.
