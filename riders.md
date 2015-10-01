@@ -6,6 +6,8 @@ permalink: /riders/
 
 This **page** is dedicated to **Parents** and **Riders** to help answer **questions** about everything you need to do and know to be on the **Drake MTB team**. If you can’t find the answer here, please reach out to your buddy family/teammate or one of the coaches.
 
+![parents and riders](../images/parents-riders.jpg)
+
 ### Getting Started
 ****
 
@@ -27,9 +29,9 @@ This **page** is dedicated to **Parents** and **Riders** to help answer **questi
 
 * <a href="{{ site.baseurl }}/eligibility">Eligibility Requirements</a>
 
-* <a href="{{ site.baseurl }}/resources/2016_Parent_Rider_Handbook.pdf">Parent Rider Handbook</a>
+* <a href="{{ site.baseurl }}/resources/2016_Parent_Rider_Handbook.pdf">Parent Rider Handbook *</a>
 	
-**PLEASE READ**  This document has been developed and improved over many years. It has several years of experience behind it and is an excellent tool to help prepare you for the first season. After that, you probably won’t need to refer to it again. However, during the first year, Parents and Riders will appreciate having all this information at their fingers tips. 
+  *PLEASE READ This document has been developed and improved over many years. It has several years of experience behind it and is an excellent tool to help prepare you for the first season. After that, you probably won’t need to refer to it again. However, during the first year, Parents and Riders will appreciate having all this information at their fingers tips. 
 
 * <a href="{{ site.baseurl }}/committee">Parent Committee Meetings</a>
 
@@ -38,13 +40,13 @@ This **page** is dedicated to **Parents** and **Riders** to help answer **questi
 ****
 
 ###Lets have some fun
-General Team Ride Schedule 
+* General Team Ride Schedule **COMING SOON**
 
-Team Bike Shop – Sunshine Bikes
+* <a href="http://www.sunshinebicycle.com/">Team Bike Shop – Sunshine Bikes</a>
 
-Parent Ride Leader Information Coming Soon
+* Parent Ride Leader Information Coming Soon **COMING SOON**
 
-Team Photos Coming soon
+* Team Photos **Coming soon**
 
-Team Videos Coming soon
+* Team Videos **Coming soon**
 

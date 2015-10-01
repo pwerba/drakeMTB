@@ -3,7 +3,7 @@ layout: page
 title: Race Reports and Announcements
 permalink: /news/
 ---
-
+![reports](../images/reports.jpg)
 
 <div class="posts">
   {% for post in site.posts %}

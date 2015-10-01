@@ -19,17 +19,17 @@ avatar: https://raw.githubusercontent.com/pwerba/drakeMTB/master/images/drakeMTB
 footer-links:
   dribbble:
   email:
-  facebook: https://www.facebook.com/drakemtb
+  facebook: drakemtb
   flickr:
   github:
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: DrakeHS
+  twitter: ##DrakeHS
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: drakemtb# channel/<your_long_string> or user/<user-name>
-  googleplus: drakemtb# anything in your profile username that comes after plus.google.com/
+  youtube: channel/UCi7asGCak6JuhG6BLkunIng# channel/<your_long_string> or user/<user-name>
+  googleplus: group/drakemtb 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
