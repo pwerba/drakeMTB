@@ -17,7 +17,7 @@ permalink: /links/
 
 * <a href="http://groups.google.com/group/drakemtb?hl=en">Join our team EMAIL list, send a request to join</a>
 
-* <a href="{{ site.baseurl }}/scholarship">Scholarship Form Download</a>
+* <a href="{{ site.baseurl }}/resources/DrakeMTB_Scholarship_ Letter">Scholarship Form Download</a>
 
 * <a href="http://google.com">Kit Order Link **COMING SOON!**</a>
 
@@ -25,7 +25,7 @@ permalink: /links/
 
 * <a href="{{ site.baseurl }}/faqs">FAQs</a>
 
-* <a href="{{ site.baseurl }}/resources/2016_Parent_Rider_Handbook.pdf">Race Packing List Download</a>
+* <a href="{{ site.baseurl }}/resources/Bike_Race_Packing_List.pdf">Race Packing List Download</a>
 
 * <a href="http://drakemtb.org">Race Food Sign up sheet **COMING SOON! Feb 2016**</a>
 
